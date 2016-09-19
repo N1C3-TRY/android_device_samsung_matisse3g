@@ -1,0 +1,4 @@
+# Radio
+ro.telephony.default_network=0,1
+telephony.lteOnGsmDevice=0
+ro.telephony.ril.config=simactivation
